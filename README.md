@@ -10,16 +10,16 @@ About Me
 
 💼 I'm passionate about becoming a Data Scientist and Data Analyst.
 
-🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
+🌱 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
+
+
+🤓 My values  : Accountability, Time management, Continuous learning, Problem-solving, Growth Mindset, Decision-making
 
 
 
 
 
-
-
-
-How to Reach Me
+🔗 How to Reach Me
 
 📧 Feel free to reach out to me via email: welcome.ekhitpatel1801@gmail.com
 
@@ -31,7 +31,7 @@ How to Reach Me
 
 
 
-Projects
+🔗 Get in touch for Projects
 
 📂 GitHub profile : https://github.com/Ekta194
 
@@ -51,8 +51,12 @@ Skills
 
 💻 Python
 
-📉 Power Bi
+📉 Power Bi 
 
 🎨 Tableau
 
-👨‍💻 Database MAnagement (MySQL)
+👨‍💻 Database Management (MySQL, PostgreSQL )
+
+🌐 Web Developement (HTML , CSS , javacript)
+
+Operating System (Linux )
